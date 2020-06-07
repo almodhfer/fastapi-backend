@@ -1,0 +1,2 @@
+export PYTHONPATH=/home/almodhfer/Projects/full-stack-scratch/backend/app
+pytest --cov=app --cov-report=term-missing app/tests "${@}      "

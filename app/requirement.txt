@@ -1,0 +1,13 @@
+fastapi
+sqlalchemy
+alembic
+uvicorn
+requests
+python-jose
+passlib
+pytest
+pytest-cov
+psycopg2
+emails
+bcrypt
+python-multipart
